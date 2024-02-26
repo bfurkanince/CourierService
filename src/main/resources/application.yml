@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Couirier Service
+
+server:
+  port: 8091
